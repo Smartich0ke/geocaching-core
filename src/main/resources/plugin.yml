@@ -1,0 +1,8 @@
+name: GeocachingCore
+version: '${project.version}'
+main: com.nikolaipatrick.geocachingcore.GeocachingCore
+api-version: 1.19
+prefix: geocaching-core
+authors: [ Artichoke ]
+description: A plugin to add geocaches to a minecraft server
+website: nikolaipatrick.com
